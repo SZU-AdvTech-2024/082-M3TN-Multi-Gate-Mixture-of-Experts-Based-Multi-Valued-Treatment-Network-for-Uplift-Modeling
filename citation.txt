@@ -2,7 +2,6 @@
     author = "Sun, Zexu and Chen, Xu",
     booktitle = "ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
     doi = "10.1109/ICASSP48485.2024.10446323",
-    keywords = "Adaptation models;Analytical models;Production;Predictive models;Signal processing;Multitasking;Acoustics;Uplift modeling;Multi-valued treatment;Effectiveness;Efficiency",
     number = "",
     pages = "5065-5069",
     title = "{M3TN: Multi-Gate Mixture-of-Experts Based Multi-Valued Treatment Network for Uplift Modeling}",
